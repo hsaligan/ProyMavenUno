@@ -13,6 +13,7 @@
   </properties>
    <build>
 	 <plugins>
+	 <!--Para reportes en JavaDoc, se incluye-->
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-project-info-reports-plugin</artifactId>
@@ -38,7 +39,6 @@
 		</plugin>
 	 </plugins>
 	</reporting>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
