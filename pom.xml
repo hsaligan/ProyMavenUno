@@ -30,6 +30,7 @@
 	 </plugins>
 	</build>
 	<reporting>
+	<!--Para JavadDoc-->
 	 <plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
